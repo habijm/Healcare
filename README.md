@@ -1,7 +1,7 @@
 # Sistem Diagnosa Penyakit
 Ini adalah implementasi sistem pakar dengan menggunakan metode Certainty Factor, project yang saya gunakan sebagai tugas akhir semester pada mata kuliah Sistem Pakar.
 
-![App Screenshot](https://github.com/habijm/Healcare/blob/main/public/dist/img/screenshot/healcareee.png?raw=true)
+![App Screenshot](https://github.com/habijm/Healcare/main/public/dist/img/screenshot/healcareee.png?raw=true)
 
 
 ## Tech Stack
@@ -25,8 +25,8 @@ Ini adalah implementasi sistem pakar dengan menggunakan metode Certainty Factor,
 You can fork or clone this project
 
 ```sh
-git clone https://github.com/superXdev/Sistem-Diagnosa-Penyakit
-cd Sistem-Diagnosa-Penyakit
+git clone https://github.com/habijm/Healcare.git
+cd healcare
 composer install
 cp .env.example .env <-- edit db config
 php artisan install
