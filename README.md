@@ -1,8 +1,7 @@
 # Sistem Diagnosa Penyakit
 Ini adalah implementasi sistem pakar dengan menggunakan metode Certainty Factor, project yang saya gunakan sebagai tugas akhir semester pada mata kuliah Sistem Pakar.
 
-![App Screenshot]([https://github.com/habijm/Healcare/main/public/dist/img/screenshot/healcareee.png?raw=true](https://github.com/habijm/Healcare/blob/master/public/dist/img/screenshot/healcareee.png))
-
+![App Screenshot](https://github.com/habijm/Healcare/blob/master/public/dist/img/screenshot/healcareee.png?raw=true)
 
 ## Tech Stack
 
